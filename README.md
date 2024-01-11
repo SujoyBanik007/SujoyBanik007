@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SujoyBanik007
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
+- 👀 I’m interested in Web Designing
 - 📫 How to reach me sujoybanik75@gmail.com
 
 <!---
